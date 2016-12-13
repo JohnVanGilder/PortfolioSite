@@ -52,6 +52,17 @@ h5{
 }
 
 
+.panel-body h2{
+  margin-left: 2%;
+}
+
+.panel-body h3{
+  margin-left: 4%;
+}
+
+.panel-body h4{
+  margin-left: 6%;
+}
 
 /*link behavior, keeps the text color and removes the underline*/
 a,a:hover, a:visited, a:active, a:link {
