@@ -1,7 +1,7 @@
 
 html, body {
   height: 100%;
-  background-image: url('../images/texturedbackground.png');
+  background-image: url('../images/background.png');
   background-repeat: repeat;
 }
 html {
@@ -35,7 +35,6 @@ h5{
   color: #065566;
 }
 
-
 .headerbar{
   position:absolute;
   height: 100px;
@@ -47,6 +46,12 @@ h5{
   border-bottom-width: 7px;
 
 }
+
+.abouttext h2, h3, h4{
+  color:#087891;
+}
+
+
 
 /*link behavior, keeps the text color and removes the underline*/
 a,a:hover, a:visited, a:active, a:link {
@@ -108,8 +113,11 @@ th, td{
 
 }
 
-.abouttext{
-
+.icons{
+  width:100%;
+  height:128px;
+  position: absolute;
+  top: 17%;
 
 }
 
