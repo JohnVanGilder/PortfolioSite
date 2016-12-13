@@ -64,6 +64,7 @@ h5{
   margin-left: 6%;
 }
 
+
 /*link behavior, keeps the text color and removes the underline*/
 a,a:hover, a:visited, a:active, a:link {
     text-decoration: none;
@@ -72,9 +73,10 @@ a,a:hover, a:visited, a:active, a:link {
 
 .homebutton{
     position:absolute;
-    margin-top: 37px;
+    margin-top: 30px;
     left:90%;
     color: #009999;
+    font-size: 30px;
 }
 
 .panel-default > .panel-heading{
